@@ -1,4 +1,5 @@
 Análise Exploratória de Produtos de Supermercado
+
 Contexto do Projeto
 Este projeto tem como objetivo aplicar os fundamentos da descoberta de dados e da estatística descritiva para analisar o catálogo de produtos de um supermercado no Chile. A base de dados contém informações sobre produtos, marcas e preços, e a análise busca identificar padrões de preços, dispersão e políticas de desconto entre as diferentes categorias de produtos.
 
